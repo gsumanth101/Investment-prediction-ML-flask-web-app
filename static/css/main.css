@@ -1,0 +1,79 @@
+
+header{
+    background-color: rgb(124, 214, 224);
+    padding: auto;
+    padding-left:20px ;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 50px;
+    text-align: left;
+  }
+  section{
+    text-align: center;
+  }
+  .container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align:left;
+}
+  
+
+.form{
+    position: relative;
+    z-index: 1;
+    opacity: 900%;
+    background: #beedf5;
+    max-width: 360px;
+    margin: 0 auto 90px;
+    padding: 45px;
+}
+.form input{
+    font-family: 'Times New Roman', Times, serif;
+    outline: 1;
+    background: #f6f4f4;
+    width: 90%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+.submit{
+    font-size: 150px;
+    text-transform: uppercase;
+    font-weight: 800;
+    color: rgb(0, 0, 0);
+}
+.footer{
+    background-color: rgb(124, 214, 224);
+    padding: auto;
+    padding-left:20px ;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 50px;
+    text-align: center;
+}
+.developer {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  .name {
+    font-weight: bold;
+  }
+  .role {
+    margin-top: 5px;
+    color: #777;
+  }
+  .details {
+    margin-top: 10px;
+  }
+  .label {
+    font-weight: bold;
+  }
+  .skills {
+    margin-top: 5px;
+    color: #555;
+  }
