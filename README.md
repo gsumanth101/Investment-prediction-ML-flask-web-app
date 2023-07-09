@@ -9,6 +9,10 @@ Steps to run the project <br>
 4)After run the app.py file <br>
 5)The server gets activated on http://127.0.0.1:5000/ <br>
 6)Click it and run. <br>
+<br>
+<br>
+<h1>Note</h1>
+<p>This works on web 3.0 and above</p>
 #Developers# <br>
 G.Sumanth (Machine Learning and Front-end developer) -- https://www.linkedin.com/in/sumanth-g-486bb7221/ <br>
 G.Vamsi Krishna (Front-End developer) -- https://www.linkedin.com/in/vamsi-krishna-gollamandala-48584a26a/ <br>
